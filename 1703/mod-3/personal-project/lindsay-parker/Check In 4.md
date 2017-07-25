@@ -38,7 +38,7 @@ Provide an environment in which to view various architectural and interior desig
  - :white_check_mark: These routes should display a random assortment of representative cards
 
 ##### Iteration 2 - By Style & Category
- - When the user clicks on an individual card, they should be brought to `/:style/:category`
+ - :white_check_mark: When the user clicks on an individual card, they should be brought to `/:style/:category`
  - This route should display a random assortment of representative cards
 
 ##### Iteration 3 - Favorites
