@@ -42,7 +42,7 @@ Provide an environment in which to view various architectural and interior desig
  - :white_check_mark: This route should display a random assortment of representative cards
 
 ##### Iteration 3 - Favorites
- - There should be a button on each card to save it to Favorites
+ - :white_check_mark: There should be a button on each card to save it to Favorites
  - `/favorites` shows only favorited cards
  - User should be able to delete a favorite
  - If there are no favorites, there should be a message indicating that there are no favorites
