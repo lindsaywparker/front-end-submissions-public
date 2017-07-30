@@ -41,18 +41,18 @@ Provide an environment in which to view various architectural and interior desig
  - :white_check_mark: When the user clicks on an individual card, they should be brought to `/:style/:category`
  - :white_check_mark: This route should display a random assortment of representative cards
 
-##### Iteration 3 - Favorites
+##### :white_check_mark: Iteration 3 - Favorites
  - :white_check_mark: There should be a button on each card to save it to Favorites
- - `/favorites` shows only favorited cards
- - User should be able to delete a favorite
- - If there are no favorites, there should be a message indicating that there are no favorites
+ - :white_check_mark: `/favorites` shows only favorited cards
+ - :white_check_mark: User should be able to delete a favorite
+ - :white_check_mark: If there are no favorites, there should be a message indicating that there are no favorites
 
-#### MVP
-Grid of random category-by-style representations with ability to click style or category and bring up new representations
+#### :white_check_mark: MVP
+:white_check_mark: Grid of random category-by-style representations with ability to click style or category and bring up new representations
 
 #### Nice To Haves
- - User favorites should persist
- - `/favorites` should show a calculated style tendency based on the users selected favorites
+ - :white_check_mark: User favorites should persist
+ - :white_check_mark: `/favorites` should show a calculated style tendency based on the users selected favorites
  - Search functionality
  - Filter functionality
  - Photo browser
